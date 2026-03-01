@@ -1,0 +1,36 @@
+009. Brewer Blackbird - Brewer's Blackbird
+019. Gray Catbird - Grey Catbird
+022. Chuck will widow - Chuck-will's-widow
+023. Brandt Cormorant - Brandt's Cormorant
+034. Gray crowned Rosy Finch - Grey-crowned Rosy Finch
+050. Eared Grebe - Black-necked grebe
+061. Heermann Gull - Heermann's Gull
+067. Anna hummingbird - Anna's hummingbird
+070. Green Violetear - Mexican Violetear 
+074. Florida Jay - Florida Scrub Jay
+078. Gray Kingbird - Grey Kingbird
+083. White breasted kingfisher - White-throated kingfisher
+093. Clark Nutcracker - Clark's Nutcracker
+098. Scott Oriole - Scott's Oriole 
+103. Sayornis - Sayornis nigricans 
+104. American pipit - Buff-bellied Pipit
+105. Whip-poor-will - Eastern Whip-poor-will 
+107. Common Raven - Northern Raven
+110. Geococcyx - Greater roadrunner
+113. Baird Sparrow - Baird's Sparrow
+115. Brewer Sparrow - Brewer's Sparrow
+122. Harris Sparrow - Harris's Sparrow
+123. Henslow Sparrow - Henslow's Sparrow
+124. Le Conte Sparrow - LeConte's Sparrow
+125. Lincoln Sparrow - Lincoln's Sparrow
+126. Nelson's sharp tailed sparrow - Nelson's Sparrow
+134. cape glossy starling - Long-tailed Glossy Starling
+135. Bank swallow - Sand martin
+141. Artic Tern - Arctic tern
+146. Forsters Tern - Forster's Tern
+159. Black and white Warbler - Black-and-white Warbler
+178. Swainson Warbler - Swainson's Warbler
+180. Wilson Warbler - Wilson's Warbler 
+193. Bewick Wren - Bewick's Wren
+
+
