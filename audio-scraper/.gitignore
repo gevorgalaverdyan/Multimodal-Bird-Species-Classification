@@ -6,3 +6,4 @@ __pycache__/
 *.pyo
 *.pyd
 *.mp3
+bird_species_audio_dataset.zip
