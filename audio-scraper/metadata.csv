@@ -126,6 +126,15 @@ file_path,class_id,species,xc_id,xc_url
 005.Crested_Auklet/Crested_Auklet_106003.mp3,5,Crested Auklet,106003,https://xeno-canto.org/106003
 005.Crested_Auklet/Crested_Auklet_105158.mp3,5,Crested Auklet,105158,https://xeno-canto.org/105158
 005.Crested_Auklet/Crested_Auklet_106007.mp3,5,Crested Auklet,106007,https://xeno-canto.org/106007
+005.Crested_Auklet/Crested_Auklet_461811041.mp3,5,Crested Auklet,461811041,https://macaulaylibrary.org/asset/461811041
+005.Crested_Auklet/Crested_Auklet_191255201.mp3,5,Crested Auklet,191255201,https://macaulaylibrary.org/asset/191255201
+005.Crested_Auklet/Crested_Auklet_163840311.mp3,5,Crested Auklet,163840311,https://macaulaylibrary.org/asset/163840311
+005.Crested_Auklet/Crested_Auklet_620970096.mp3,5,Crested Auklet,620970096,https://macaulaylibrary.org/asset/620970096
+005.Crested_Auklet/Crested_Auklet_191298751.mp3,5,Crested Auklet,191298751,https://macaulaylibrary.org/asset/191298751
+005.Crested_Auklet/Crested_Auklet_191250731.mp3,5,Crested Auklet,191250731,https://macaulaylibrary.org/asset/191250731
+005.Crested_Auklet/Crested_Auklet_239137.mp3,5,Crested Auklet,239137,https://macaulaylibrary.org/asset/239137
+005.Crested_Auklet/Crested_Auklet_461811051.mp3,5,Crested Auklet,461811051,https://macaulaylibrary.org/asset/461811051
+005.Crested_Auklet/Crested_Auklet_203956601.mp3,5,Crested Auklet,203956601,https://macaulaylibrary.org/asset/203956601
 006.Least_Auklet/Least_Auklet_106001.mp3,6,Least Auklet,106001,https://xeno-canto.org/106001
 006.Least_Auklet/Least_Auklet_101453.mp3,6,Least Auklet,101453,https://xeno-canto.org/101453
 006.Least_Auklet/Least_Auklet_353693.mp3,6,Least Auklet,353693,https://xeno-canto.org/353693
@@ -144,6 +153,7 @@ file_path,class_id,species,xc_id,xc_url
 007.Parakeet_Auklet/Parakeet_Auklet_101452.mp3,7,Parakeet Auklet,101452,https://xeno-canto.org/101452
 007.Parakeet_Auklet/Parakeet_Auklet_352913.mp3,7,Parakeet Auklet,352913,https://xeno-canto.org/352913
 008.Rhinoceros_Auklet/Rhinoceros_Auklet_915711.mp3,8,Rhinoceros Auklet,915711,https://xeno-canto.org/915711
+008.Rhinoceros_Auklet/Rhinoceros_Auklet_110904.mp3,8,Rhinoceros Auklet,110904,https://macaulaylibrary.org/asset/110904
 009.Brewer_Blackbird/Brewer_Blackbird_764039.mp3,9,Brewer Blackbird,764039,https://xeno-canto.org/764039
 009.Brewer_Blackbird/Brewer_Blackbird_159781.mp3,9,Brewer Blackbird,159781,https://xeno-canto.org/159781
 009.Brewer_Blackbird/Brewer_Blackbird_205758.mp3,9,Brewer Blackbird,205758,https://xeno-canto.org/205758
@@ -3528,6 +3538,11 @@ file_path,class_id,species,xc_id,xc_url
 084.Red_legged_Kittiwake/Red_legged_Kittiwake_140302.mp3,84,Red legged Kittiwake,140302,https://xeno-canto.org/140302
 084.Red_legged_Kittiwake/Red_legged_Kittiwake_106042.mp3,84,Red legged Kittiwake,106042,https://xeno-canto.org/106042
 084.Red_legged_Kittiwake/Red_legged_Kittiwake_412865.mp3,84,Red legged Kittiwake,412865,https://xeno-canto.org/412865
+084.Red_legged_Kittiwake/Red_legged_Kittiwake_133078.mp3,84,Red legged Kittiwake,133078,https://macaulaylibrary.org/asset/133078
+084.Red_legged_Kittiwake/Red_legged_Kittiwake_648005265.mp3,84,Red legged Kittiwake,648005265,https://macaulaylibrary.org/asset/648005265
+084.Red_legged_Kittiwake/Red_legged_Kittiwake_191317211.mp3,84,Red legged Kittiwake,191317211,https://macaulaylibrary.org/asset/191317211
+084.Red_legged_Kittiwake/Red_legged_Kittiwake_625324214.mp3,84,Red legged Kittiwake,625324214,https://macaulaylibrary.org/asset/625324214
+084.Red_legged_Kittiwake/Red_legged_Kittiwake_619799094.mp3,84,Red legged Kittiwake,619799094,https://macaulaylibrary.org/asset/619799094
 085.Horned_Lark/Horned_Lark_784132.mp3,85,Horned Lark,784132,https://xeno-canto.org/784132
 085.Horned_Lark/Horned_Lark_460354.mp3,85,Horned Lark,460354,https://xeno-canto.org/460354
 085.Horned_Lark/Horned_Lark_225347.mp3,85,Horned Lark,225347,https://xeno-canto.org/225347
@@ -4477,6 +4492,9 @@ file_path,class_id,species,xc_id,xc_url
 105.Whip_poor_Will/Whip_poor_Will_994154.mp3,105,Whip poor Will,994154,https://xeno-canto.org/994154
 105.Whip_poor_Will/Whip_poor_Will_731305.mp3,105,Whip poor Will,731305,https://xeno-canto.org/731305
 106.Horned_Puffin/Horned_Puffin_177513.mp3,106,Horned Puffin,177513,https://xeno-canto.org/177513
+106.Horned_Puffin/Horned_Puffin_177513.mp3,106,Horned Puffin,617448290,https://macaulaylibrary.org/asset/617448290
+106.Horned_Puffin/Horned_Puffin_0.mp3,106,Horned Puffin,0,https://example.com/0
+106.Horned_Puffin/Horned_Puffin_00.mp3,106,Horned Puffin,00,https://example.com/00
 107.Common_Raven/Common_Raven_1080749.mp3,107,Common Raven,1080749,https://xeno-canto.org/1080749
 107.Common_Raven/Common_Raven_1078519.mp3,107,Common Raven,1078519,https://xeno-canto.org/1078519
 107.Common_Raven/Common_Raven_1077846.mp3,107,Common Raven,1077846,https://xeno-canto.org/1077846
