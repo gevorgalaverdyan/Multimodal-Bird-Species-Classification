@@ -1,0 +1,7 @@
+requests
+dotenv
+tqdm
+librosa 
+soundfile 
+matplotlib 
+Pillow
