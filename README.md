@@ -3,6 +3,8 @@ Precisely identifying bird species is a challenging task in the ecological domai
 
 ## Datasets
 - [CUB-200-2011](https://www.kaggle.com/datasets/wenewone/cub2002011)
+- [Custom Audio Dataset for CUB-200-2011 by me :)](https://www.kaggle.com/datasets/gevorgalaverdyan/cub-200-bird-audio-dataset)
+- [Spectrograms Dataset for CUB-200-2011 coming soon...]
 
 ## Resources
 - [Cross-domain Deep Feature Combination for Bird Species Classification with Audio-visual Data](https://arxiv.org/pdf/1811.10199)
