@@ -148,12 +148,12 @@ def spectrogram_to_image(S_norm: np.ndarray) -> Image.Image:
     fig.subplots_adjust(left=0, right=1, top=1, bottom=0)
 
     fig.canvas.draw()
-    buf       = fig.canvas.buffer_rgba()
+    buf       = fig.canvas.buffer_rgba() # type: ignore
     img_array = np.asarray(buf)
     plt.close(fig)
 
     img = Image.fromarray(img_array).convert("RGB")
-    img = img.resize((IMG_SIZE, IMG_SIZE), Image.LANCZOS)
+    img = img.resize((IMG_SIZE, IMG_SIZE), Image.LANCZOS) # type: ignore
     return img
 
 
