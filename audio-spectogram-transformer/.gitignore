@@ -2,3 +2,4 @@
 /spectrograms/*
 venv/
 __pycache__/
+*.zip
