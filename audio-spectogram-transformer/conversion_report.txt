@@ -1,0 +1,8 @@
+Spectrogram generation report
+Audio root  : /home/gevorg/Downloads/ML_COMP432/PROJECT/Multimodal-Bird-Species-Classification/audio-scraper/data
+Output root : /home/gevorg/Downloads/ML_COMP432/PROJECT/Multimodal-Bird-Species-Classification/audio-spectogram-transformer/spectrograms
+Parameters  : segment=10s, n_fft=512, hop=256, freq=100-16000Hz, silence_ratio=0.25
+Total files : 9277
+Succeeded   : 9277
+Failed      : 0
+
