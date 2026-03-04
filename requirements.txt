@@ -5,3 +5,4 @@ librosa
 soundfile 
 matplotlib 
 Pillow
+numpy>=1.24.0
