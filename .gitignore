@@ -2,3 +2,4 @@
 /data/*
 venv/
 __pycache__/
+best_model.pth
